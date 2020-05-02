@@ -1,7 +1,7 @@
-export const githubOwner = 'peerjako-aws';
-export const repoName = 'cdk-ecs-cicd';
-export const gitDevBranch = 'dev'
-export const gitProdBranch = 'master'
-export const awsSecretsGitHubTokenName = 'github-personal-access-token';
-export const ssmImageTagParamName = 'penguinapp-imagetag';
-export const stagingValidationEmail = 'validation@test.com';
+export declare const githubOwner = "LincolnHedgehog";
+export declare const repoName = "cdk-ecs-cicd";
+export declare const gitDevBranch = "dev";
+export declare const gitProdBranch = "master";
+export declare const awsSecretsGitHubTokenName = "github-personal-access-token";
+export declare const ssmImageTagParamName = "penguinapp-imagetag";
+export declare const stagingValidationEmail = "hedgehog.22.lincoln@gmail.com";
